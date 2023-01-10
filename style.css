@@ -1,0 +1,39 @@
+
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.header-wraper {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(136, 57, 189);
+  padding: 30px;
+  position: relative;
+}
+.nav-ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+.box{
+  background-color: rgb(126, 11, 120);
+  height: 2000px;
+
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+li{
+  margin-top: 40px;
+  margin-right: 25px;
+  text-align: center;
+
+}
